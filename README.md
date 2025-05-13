@@ -28,7 +28,7 @@
 
 ## 🌐 Giới thiệu
 
-📌 **Trang dự án**: [primuslabs.xyz](https://primuslabs.xyz/)
+📌 **Trang dự án**: [testnet.humanity.org]( http://testnet.humanity.org/login?ref=tranlamvpn)
 
 <p align="center">
     <img src="intro.jpg" alt="Giới thiệu">
@@ -36,7 +36,7 @@
 
 ---
 
-## 🎬 Video demo (cập nhật sau)
+## 🎬 Video demo
 
 <p align="center">
     <a href="https://youtu.be/8uW4N2Yuo6o">
@@ -58,7 +58,7 @@
 
 - **Google**: Trường hợp không cung cấp mật khẩu trong data.txt, cần đăng nhập thủ công với chế độ `1. Set up`.
 
-- **Humanity**: tài khoản humanity phải kết nối tài khoản google, để thực hiện đăng nhập.
+- **Humanity**: Tài khoản Humanity phải kết nối tài khoản google, để thực hiện đăng nhập.
 
 ---
 
@@ -73,7 +73,7 @@
 | `requirements.txt`             | Danh sách các thư viện cần thiết.        |
 | `intro.jpg`                    | Hình ảnh giới thiệu.                     |
 | `run_menu.bat`                 | Chạy code với 1 click.                   |
-| `run_hidden.vbs`               | Chạy code với Task scheduler (window)    |
+| `run_hidden.vbs`               | Chạy code với Task scheduler (window).   |
 
 ---
 
