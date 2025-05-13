@@ -28,7 +28,7 @@
 
 ## 🌐 Giới thiệu
 
-📌 **Trang dự án**: [testnet.humanity.org]( http://testnet.humanity.org/login?ref=tranlamvpn)
+📌 **Trang dự án**: [testnet.humanity.org](http://testnet.humanity.org/login?ref=tranlamvpn)
 
 <p align="center">
     <img src="intro.jpg" alt="Giới thiệu">
