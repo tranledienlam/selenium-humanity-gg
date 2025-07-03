@@ -1,4 +1,4 @@
-# AUTOMATION HUMANITY + GG với Selenium Python
+# ~~AUTOMATION HUMANITY + GG với Selenium Python~~
 
 ## ⚠ Lưu ý quan trọng
 
